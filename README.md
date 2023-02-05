@@ -1,4 +1,4 @@
-# choose-color
+# choose-color (vue, pinia, font-awesome)
 
 ## Project setup
 ```
